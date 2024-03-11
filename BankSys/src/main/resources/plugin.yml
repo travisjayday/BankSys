@@ -1,0 +1,14 @@
+name: BankSys
+depend: [WorldEdit, WorldGuard, Citizens, Vault, LuckPerms, PowerBoard, PlaceholderAPI, Essentials]
+version: '${project.version}'
+main: com.stardust.banksys.BankSys
+api-version: '1.20'
+authors: [ travisjayday ]
+commands:
+  bank:
+    description: "BankSys commands. Use /bank help."
+    usage: Run "/bank help" for usage
+  payday:
+    description: "Checks how long until the next payday"
+    usage: Run "/payday"
+

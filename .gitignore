@@ -1,0 +1,11 @@
+testserver/**
+frunexserver/**
+server/**
+
+testserver/
+frunexserver/
+server/
+
+testserver
+frunexserver
+server
